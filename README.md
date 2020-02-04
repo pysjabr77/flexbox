@@ -27,4 +27,4 @@ Ordenacao
   - order
 
 Configurando app
-  - 
+  - programa para criar layout sketch (so mac) e vectr
